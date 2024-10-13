@@ -90,6 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you would like to contribute to this project, please open an issue or submit a pull request.
 
-## Contact
-
-For any inquiries or feedback, please reach out to <your_email@example.com>.
