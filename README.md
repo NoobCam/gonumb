@@ -79,7 +79,7 @@ The output will be saved in the specified directory. The following files will be
 
 ## Notes
 
-- **Running with Root Privileges**: Masscan requires root privileges to run. You may need to execute your command with `sudo`.
+- **Running with Root Privileges**: Masscan requires root privileges to run. You will be prompted for your sudo password when masscan runs.
 - **Input Files**: Ensure that your input files (`asn_list.txt`, `cidr_list.txt`, etc.) are formatted correctly with one entry per line.
 
 ## License
